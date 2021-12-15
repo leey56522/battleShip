@@ -29,4 +29,4 @@ const Ship = (type) => {
 };
 
 // Exporting single factory function, so use default
-module.exports = Ship;
+export default Ship;

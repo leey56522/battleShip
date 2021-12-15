@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack://battleship/./src/index.js?");
+eval("/* eslint-disable no-plusplus */\n// import './style.css';\n\n\n//# sourceURL=webpack://battleship/./src/index.js?");
 
 /***/ })
 
